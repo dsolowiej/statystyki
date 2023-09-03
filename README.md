@@ -1,3 +1,3 @@
 # statystyki
-Zestaw baz danych i narzędzi wspierających pracę dziennikarza danych.<br>
-[Studio DS Info](https://studiodsinfo.pl/)
+Zestaw baz danych i narzędzi wspierających pracę dziennikarza danych.
+<p>[Studio DS Info](https://studiodsinfo.pl/)
