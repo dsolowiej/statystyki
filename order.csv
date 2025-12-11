@@ -1,0 +1,101 @@
+order_id;order_date;customer_id;product_id;product_name;brand;category;gender;size_eu;color;unit_price;qty;order_total;country;city;device_type;source
+1;2024-06-12T10:15:23;101;5001;Nike Sneakers Men Black;Nike;Sneakers;Men;43;Black;299.99;1;299.99;PL;Warszawa;desktop;organic
+2;2024-06-12T10:16:05;102;5002;Adidas Running Women White;Adidas;Running;Women;38;White;349.99;2;699.98;PL;Kraków;mobile;paid
+3;2024-06-12T10:18:47;103;5003;Puma Lifestyle Unisex Blue;Puma;Lifestyle;Unisex;42;Blue;259.99;1;259.99;DE;Berlin;desktop;direct
+4;2024-06-12T10:20:12;104;5004;New Balance Running Men Grey;New Balance;Running;Men;44;Grey;379.99;1;379.99;PL;Wroc³aw;tablet;email
+5;2024-06-12T10:22:55;105;5005;Converse Sneakers Women Red;Converse;Sneakers;Women;39;Red;229.99;3;689.97;UK;London;mobile;social
+6;2024-06-12T10:25:10;106;5006;Vans Sneakers Men White;Vans;Sneakers;Men;42;White;249.99;1;249.99;PL;Poznañ;desktop;organic
+7;2024-06-12T10:27:44;107;5007;Asics Running Women Blue;Asics;Running;Women;37;Blue;319.99;2;639.98;FR;Paris;mobile;paid
+8;2024-06-12T10:30:32;108;5008;Reebok Lifestyle Unisex Grey;Reebok;Lifestyle;Unisex;41;Grey;219.99;1;219.99;CZ;Praga;desktop;organic
+9;2024-06-12T10:33:01;109;5009;Nike Football Men Green;Nike;Football;Men;44;Green;359.99;1;359.99;PL;£ódŸ;tablet;social
+10;2024-06-12T10:35:40;110;5010;Adidas Basketball Men Black;Adidas;Basketball;Men;46;Black;399.99;1;399.99;DE;Hamburg;mobile;direct
+11;2024-06-12T11:01:15;111;5011;Nike Hiking Women Brown;Nike;Hiking;Women;39;Brown;369.99;1;369.99;PL;Warszawa;desktop;organic
+12;2024-06-12T11:03:47;112;5012;Puma Running Men Red;Puma;Running;Men;42;Red;289.99;2;579.98;PL;Gdañsk;mobile;email
+13;2024-06-12T11:05:22;113;5013;Converse Sneakers Unisex White;Converse;Sneakers;Unisex;40;White;219.99;1;219.99;UK;Manchester;desktop;paid
+14;2024-06-12T11:07:55;114;5014;New Balance Lifestyle Women Grey;New Balance;Lifestyle;Women;38;Grey;339.99;1;339.99;PL;Kraków;mobile;organic
+15;2024-06-12T11:10:10;115;5015;Vans Sneakers Men Blue;Vans;Sneakers;Men;43;Blue;259.99;2;519.98;FR;Lyon;tablet;social
+16;2024-06-12T11:12:24;116;5016;Reebok Running Women Pink;Reebok;Running;Women;37;Red;279.99;1;279.99;PL;Wroc³aw;desktop;organic
+17;2024-06-12T11:14:40;117;5017;Asics Lifestyle Men Black;Asics;Lifestyle;Men;44;Black;309.99;1;309.99;DE;Berlin;mobile;paid
+18;2024-06-12T11:16:59;118;5018;Nike Football Kids Yellow;Nike;Football;Kids;35;Yellow;199.99;2;399.98;PL;Warszawa;desktop;organic
+19;2024-06-12T11:19:03;119;5019;Adidas Running Men White;Adidas;Running;Men;42;White;329.99;1;329.99;PL;Katowice;mobile;email
+20;2024-06-12T11:21:27;120;5020;Converse Sneakers Women Black;Converse;Sneakers;Women;39;Black;239.99;1;239.99;UK;London;tablet;social
+21;2024-06-12T12:02:11;121;5021;Nike Sneakers Men Grey;Nike;Sneakers;Men;43;Grey;279.99;2;559.98;PL;Poznañ;desktop;organic
+22;2024-06-12T12:04:37;122;5022;Adidas Lifestyle Women Blue;Adidas;Lifestyle;Women;38;Blue;259.99;1;259.99;FR;Paris;mobile;direct
+23;2024-06-12T12:07:15;123;5023;Puma Running Men Black;Puma;Running;Men;44;Black;299.99;1;299.99;PL;Warszawa;desktop;organic
+24;2024-06-12T12:09:50;124;5024;New Balance Hiking Men Brown;New Balance;Hiking;Men;45;Brown;389.99;1;389.99;DE;Monachium;mobile;paid
+25;2024-06-12T12:12:32;125;5025;Converse Sneakers Kids Red;Converse;Sneakers;Kids;34;Red;189.99;1;189.99;PL;Kraków;tablet;organic
+26;2024-06-12T12:14:55;126;5026;Vans Lifestyle Unisex White;Vans;Lifestyle;Unisex;41;White;229.99;2;459.98;PL;Gdañsk;desktop;social
+27;2024-06-12T12:17:21;127;5027;Reebok Football Men Blue;Reebok;Football;Men;43;Blue;319.99;1;319.99;UK;London;mobile;organic
+28;2024-06-12T12:19:44;128;5028;Asics Running Women Black;Asics;Running;Women;39;Black;309.99;1;309.99;PL;Wroc³aw;desktop;email
+29;2024-06-12T12:22:06;129;5029;Nike Lifestyle Men White;Nike;Lifestyle;Men;42;White;269.99;1;269.99;PL;£ódŸ;mobile;paid
+30;2024-06-12T12:24:31;130;5030;Adidas Basketball Men Red;Adidas;Basketball;Men;46;Red;419.99;1;419.99;DE;Berlin;desktop;direct
+31;2024-06-12T13:01:03;131;5031;Puma Sneakers Women Grey;Puma;Sneakers;Women;38;Grey;239.99;1;239.99;PL;Katowice;mobile;organic
+32;2024-06-12T13:03:28;132;5032;Converse Lifestyle Unisex Blue;Converse;Lifestyle;Unisex;40;Blue;219.99;2;439.98;FR;Marseille;desktop;social
+33;2024-06-12T13:05:52;133;5033;New Balance Running Men Green;New Balance;Running;Men;44;Green;339.99;1;339.99;PL;Warszawa;tablet;organic
+34;2024-06-12T13:08:16;134;5034;Vans Sneakers Men Black;Vans;Sneakers;Men;43;Black;259.99;1;259.99;PL;Kraków;mobile;paid
+35;2024-06-12T13:10:40;135;5035;Reebok Running Women White;Reebok;Running;Women;37;White;289.99;1;289.99;DE;Hamburg;desktop;organic
+36;2024-06-12T13:13:04;136;5036;Asics Lifestyle Men Grey;Asics;Lifestyle;Men;42;Grey;279.99;2;559.98;PL;Poznañ;mobile;email
+37;2024-06-12T13:15:28;137;5037;Nike Football Men Yellow;Nike;Football;Men;45;Yellow;349.99;1;349.99;PL;Wroc³aw;desktop;organic
+38;2024-06-12T13:17:52;138;5038;Adidas Running Women Blue;Adidas;Running;Women;39;Blue;319.99;1;319.99;UK;Manchester;mobile;social
+39;2024-06-12T13:20:16;139;5039;Puma Sneakers Men Red;Puma;Sneakers;Men;43;Red;249.99;1;249.99;PL;Gdañsk;tablet;organic
+40;2024-06-12T13:22:40;140;5040;Converse Lifestyle Women Black;Converse;Lifestyle;Women;38;Black;229.99;1;229.99;CZ;Praga;desktop;direct
+41;2024-06-12T14:01:05;141;5041;New Balance Running Men White;New Balance;Running;Men;44;White;349.99;1;349.99;PL;Warszawa;mobile;paid
+42;2024-06-12T14:03:29;142;5042;Vans Sneakers Unisex Grey;Vans;Sneakers;Unisex;41;Grey;239.99;2;479.98;PL;£ódŸ;desktop;organic
+43;2024-06-12T14:05:53;143;5043;Reebok Football Men Blue;Reebok;Football;Men;45;Blue;329.99;1;329.99;FR;Paris;mobile;organic
+44;2024-06-12T14:08:17;144;5044;Asics Running Women Pink;Asics;Running;Women;37;Red;299.99;1;299.99;PL;Poznañ;desktop;email
+45;2024-06-12T14:10:41;145;5045;Nike Lifestyle Men Black;Nike;Lifestyle;Men;43;Black;279.99;1;279.99;DE;Berlin;mobile;social
+46;2024-06-12T14:13:05;146;5046;Adidas Sneakers Women White;Adidas;Sneakers;Women;38;White;259.99;1;259.99;PL;Kraków;desktop;organic
+47;2024-06-12T14:15:29;147;5047;Puma Running Men Grey;Puma;Running;Men;44;Grey;309.99;2;619.98;PL;Warszawa;mobile;paid
+48;2024-06-12T14:17:53;148;5048;Converse Lifestyle Unisex Red;Converse;Lifestyle;Unisex;40;Red;219.99;1;219.99;UK;London;desktop;organic
+49;2024-06-12T14:20:17;149;5049;New Balance Hiking Men Brown;New Balance;Hiking;Men;45;Brown;389.99;1;389.99;PL;Gdañsk;tablet;email
+50;2024-06-12T14:22:41;150;5050;Vans Sneakers Men Blue;Vans;Sneakers;Men;42;Blue;249.99;1;249.99;PL;Wroc³aw;mobile;social
+51;2024-06-12T15:01:10;151;5051;Reebok Running Women Black;Reebok;Running;Women;37;Black;289.99;1;289.99;PL;£ódŸ;desktop;organic
+52;2024-06-12T15:03:34;152;5052;Asics Lifestyle Men White;Asics;Lifestyle;Men;43;White;279.99;1;279.99;DE;Monachium;mobile;organic
+53;2024-06-12T15:05:58;153;5053;Nike Football Kids Yellow;Nike;Football;Kids;35;Yellow;199.99;2;399.98;PL;Warszawa;desktop;social
+54;2024-06-12T15:08:22;154;5054;Adidas Running Men Blue;Adidas;Running;Men;44;Blue;329.99;1;329.99;PL;Kraków;mobile;paid
+55;2024-06-12T15:10:46;155;5055;Puma Sneakers Women Red;Puma;Sneakers;Women;38;Red;239.99;1;239.99;FR;Lyon;desktop;organic
+56;2024-06-12T15:13:10;156;5056;Converse Lifestyle Unisex Grey;Converse;Lifestyle;Unisex;41;Grey;219.99;1;219.99;PL;Katowice;mobile;direct
+57;2024-06-12T15:15:34;157;5057;New Balance Running Men Green;New Balance;Running;Men;44;Green;339.99;1;339.99;CZ;Praga;desktop;organic
+58;2024-06-12T15:17:58;158;5058;Vans Sneakers Men Black;Vans;Sneakers;Men;43;Black;259.99;2;519.98;PL;Wroc³aw;tablet;organic
+59;2024-06-12T15:20:22;159;5059;Reebok Running Women White;Reebok;Running;Women;37;White;289.99;1;289.99;DE;Hamburg;mobile;social
+60;2024-06-12T15:22:46;160;5060;Asics Lifestyle Men Grey;Asics;Lifestyle;Men;42;Grey;279.99;1;279.99;PL;Poznañ;desktop;organic
+61;2024-06-12T16:01:05;161;5061;Nike Sneakers Men Blue;Nike;Sneakers;Men;43;Blue;269.99;1;269.99;PL;Warszawa;mobile;email
+62;2024-06-12T16:03:29;162;5062;Adidas Running Women Black;Adidas;Running;Women;38;Black;319.99;1;319.99;FR;Paris;desktop;paid
+63;2024-06-12T16:05:53;163;5063;Puma Lifestyle Unisex White;Puma;Lifestyle;Unisex;40;White;249.99;2;499.98;PL;Kraków;mobile;organic
+64;2024-06-12T16:08:17;164;5064;Converse Sneakers Women Grey;Converse;Sneakers;Women;39;Grey;229.99;1;229.99;PL;£ódŸ;desktop;social
+65;2024-06-12T16:10:41;165;5065;New Balance Running Men Red;New Balance;Running;Men;44;Red;349.99;1;349.99;DE;Berlin;mobile;organic
+66;2024-06-12T16:13:05;166;5066;Vans Sneakers Men White;Vans;Sneakers;Men;42;White;249.99;1;249.99;PL;Gdañsk;desktop;organic
+67;2024-06-12T16:15:29;167;5067;Reebok Football Men Green;Reebok;Football;Men;45;Green;329.99;1;329.99;UK;London;mobile;paid
+68;2024-06-12T16:17:53;168;5068;Asics Running Women Blue;Asics;Running;Women;37;Blue;309.99;1;309.99;PL;Wroc³aw;desktop;organic
+69;2024-06-12T16:20:17;169;5069;Nike Lifestyle Men Black;Nike;Lifestyle;Men;43;Black;279.99;2;559.98;PL;Katowice;mobile;email
+70;2024-06-12T16:22:41;170;5070;Adidas Sneakers Women Red;Adidas;Sneakers;Women;38;Red;259.99;1;259.99;FR;Marseille;desktop;organic
+71;2024-06-12T17:01:10;171;5071;Puma Running Men Grey;Puma;Running;Men;44;Grey;309.99;1;309.99;PL;Warszawa;tablet;social
+72;2024-06-12T17:03:34;172;5072;Converse Lifestyle Unisex Blue;Converse;Lifestyle;Unisex;41;Blue;219.99;1;219.99;PL;Poznañ;desktop;organic
+73;2024-06-12T17:05:58;173;5073;New Balance Hiking Men Brown;New Balance;Hiking;Men;45;Brown;389.99;1;389.99;DE;Monachium;mobile;organic
+74;2024-06-12T17:08:22;174;5074;Vans Sneakers Men Black;Vans;Sneakers;Men;43;Black;259.99;1;259.99;PL;Wroc³aw;desktop;paid
+75;2024-06-12T17:10:46;175;5075;Reebok Running Women White;Reebok;Running;Women;37;White;289.99;2;579.98;PL;£ódŸ;mobile;organic
+76;2024-06-12T17:13:10;176;5076;Asics Lifestyle Men Grey;Asics;Lifestyle;Men;42;Grey;279.99;1;279.99;FR;Paris;desktop;organic
+77;2024-06-12T17:15:34;177;5077;Nike Football Men Yellow;Nike;Football;Men;45;Yellow;349.99;1;349.99;PL;Kraków;mobile;email
+78;2024-06-12T17:17:58;178;5078;Adidas Running Women Blue;Adidas;Running;Women;38;Blue;319.99;1;319.99;PL;Warszawa;desktop;organic
+79;2024-06-12T17:20:22;179;5079;Puma Sneakers Men Red;Puma;Sneakers;Men;43;Red;249.99;1;249.99;UK;Manchester;mobile;social
+80;2024-06-12T17:22:46;180;5080;Converse Lifestyle Women Black;Converse;Lifestyle;Women;39;Black;229.99;1;229.99;PL;Gdañsk;desktop;organic
+81;2024-06-12T18:01:03;181;5081;New Balance Running Men White;New Balance;Running;Men;44;White;349.99;1;349.99;PL;Warszawa;mobile;paid
+82;2024-06-12T18:03:27;182;5082;Vans Sneakers Unisex Grey;Vans;Sneakers;Unisex;41;Grey;239.99;1;239.99;CZ;Praga;desktop;organic
+83;2024-06-12T18:05:51;183;5083;Reebok Football Men Blue;Reebok;Football;Men;45;Blue;329.99;1;329.99;PL;£ódŸ;mobile;organic
+84;2024-06-12T18:08:15;184;5084;Asics Running Women Pink;Asics;Running;Women;37;Red;299.99;1;299.99;DE;Hamburg;desktop;email
+85;2024-06-12T18:10:39;185;5085;Nike Lifestyle Men Black;Nike;Lifestyle;Men;43;Black;279.99;2;559.98;PL;Poznañ;mobile;organic
+86;2024-06-12T18:13:03;186;5086;Adidas Sneakers Women White;Adidas;Sneakers;Women;38;White;259.99;1;259.99;FR;Lyon;desktop;social
+87;2024-06-12T18:15:27;187;5087;Puma Running Men Grey;Puma;Running;Men;44;Grey;309.99;1;309.99;PL;Wroc³aw;mobile;organic
+88;2024-06-12T18:17:51;188;5088;Converse Lifestyle Unisex Red;Converse;Lifestyle;Unisex;40;Red;219.99;1;219.99;PL;Warszawa;desktop;paid
+89;2024-06-12T18:20:15;189;5089;New Balance Hiking Men Brown;New Balance;Hiking;Men;45;Brown;389.99;1;389.99;DE;Berlin;mobile;organic
+90;2024-06-12T18:22:39;190;5090;Vans Sneakers Men Blue;Vans;Sneakers;Men;42;Blue;249.99;1;249.99;PL;Kraków;desktop;organic
+91;2024-06-12T19:01:12;191;5091;Reebok Running Women Black;Reebok;Running;Women;37;Black;289.99;1;289.99;PL;Gdañsk;mobile;organic
+92;2024-06-12T19:03:36;192;5092;Asics Lifestyle Men White;Asics;Lifestyle;Men;43;White;279.99;1;279.99;UK;London;desktop;email
+93;2024-06-12T19:05:59;193;5093;Nike Football Kids Yellow;Nike;Football;Kids;35;Yellow;199.99;2;399.98;PL;Warszawa;mobile;social
+94;2024-06-12T19:08:23;194;5094;Adidas Running Men Blue;Adidas;Running;Men;44;Blue;329.99;1;329.99;PL;£ódŸ;desktop;organic
+95;2024-06-12T19:10:47;195;5095;Puma Sneakers Women Red;Puma;Sneakers;Women;38;Red;239.99;1;239.99;FR;Paris;mobile;paid
+96;2024-06-12T19:13:11;196;5096;Converse Lifestyle Unisex Grey;Converse;Lifestyle;Unisex;41;Grey;219.99;1;219.99;DE;Hamburg;desktop;organic
+97;2024-06-12T19:15:35;197;5097;New Balance Running Men Green;New Balance;Running;Men;44;Green;339.99;1;339.99;PL;Poznañ;mobile;organic
+98;2024-06-12T19:17:59;198;5098;Vans Sneakers Men Black;Vans;Sneakers;Men;43;Black;259.99;1;259.99;CZ;Brno;desktop;organic
+99;2024-06-12T19:20:23;199;5099;Reebok Running Women White;Reebok;Running;Women;37;White;289.99;1;289.99;PL;Katowice;mobile;organic
+100;2024-06-12T19:22:47;200;5100;Asics Lifestyle Men Grey;Asics;Lifestyle;Men;42;Grey;279.99;1;279.99;PL;Warszawa;desktop;organic
